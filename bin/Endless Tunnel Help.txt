@@ -1,0 +1,40 @@
+Help for Endless Tunnel
+
+The Game
+
+	The aim of Endless Tunnel is to get the highest score by surviving as long as possible by not crashing. Gain
+	points by dodging asteroids. To play, click on the left-most button on the menu to start. Guide the plane by
+	moving your mouse. The rectangle at the bottom-right is the energy bar. When it is filled completely, the
+	plane becomes immune to crashing for a short period of time.
+
+	During the game, left click to pause (or press P) and left click to resume and right click to use the energy
+	bar.
+
+The Menu
+
+	New – Starts a new game (or press N).
+	Close – Closes the current game instantly.
+	Options – Allows you to customise the game.
+	Statistics – Shows interesting facts about the gameplay.
+	Instructions – Shows this text.
+	About – Information about Endless Tunnel
+	Close – Exits the game
+
+The Options
+
+	General Tab
+		Use Keyboard - Allows you to use the keyboard instead of the mouse. To play using the keyboard, use the 		WASD keys.
+		W – To go up
+		A – To go left
+		S – To go down
+		D – To go right
+		Play Music - Toggles whether music plays or not.
+		Reset Statistics – Clears the statistics. E.g. Average score.
+	Appearance Tab
+		Select an item to change its colour then clicking on “Change”.
+		Display Stars – Toggles whether moving stars along asteroids will be visible.
+		Number of Stars – Changes how many stars are visible.
+		Visible Range – Toggles many asteroids are rendered in the distance.
+		Anti-Alias – If checked, the display will have reduced “stair-stepping” effect where. It is
+		recommended this setting is checked to enhance visual display.
+		Fill – Toggles whether objects like the plane, asteroids and progress bar will have semi-transparent 		filling.
